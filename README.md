@@ -1,5 +1,10 @@
+![profile](https://user-images.githubusercontent.com/53427900/223501129-cff53586-1b63-4830-911b-d2a9fd8935a8.gif)
 
-![](https://github.com/abdulrehman1232/abdulrehman1232/blob/main/profile.gif)
+https://user-images.githubusercontent.com/53427900/223501310-67c0fd9b-7b6a-4a10-9b40-e6de17d77e6e.mp4
+
+
+
+![](profile.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">Building predictive models and solving real-world problems with machine learning</h3>
