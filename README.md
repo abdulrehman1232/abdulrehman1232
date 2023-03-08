@@ -1,8 +1,3 @@
-![profile](https://user-images.githubusercontent.com/53427900/223501129-cff53586-1b63-4830-911b-d2a9fd8935a8.gif)
-
-https://user-images.githubusercontent.com/53427900/223501310-67c0fd9b-7b6a-4a10-9b40-e6de17d77e6e.mp4
-
-
 
 ![](profile.gif)
 
